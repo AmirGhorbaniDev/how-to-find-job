@@ -27,6 +27,7 @@ A polished CV is your first impression on potential employers. Utilizing the rig
 |----------------------|--------------------------------------------------------------------------------------------------------------|---------------------------------------|
 | **FlowCV**          | User-friendly interface with professional, ATS-friendly templates.                                            | [Visit FlowCV](https://flowcv.com)   |
 | **Enhancv**         | Offers customizable templates and tools for tailoring CVs to specific roles.                                   | [Visit Enhancv](https://enhancv.com) |
+| **ResumeAI**        | AI resume builder with free ATS checker; open State of ATS 2026 (738/704, Workday 37.9%).                      | [Visit ResumeAI](https://withresumeai.com/) |
 | **Resume.com**      | Free platform with a variety of templates and easy exporting options.                                          | [Visit Resume.com](https://resume.com) |
 | **Novoresume**      | Provides advanced design features and formatting options to make your CV stand out.                            | [Visit Novoresume](https://novoresume.com) |
 | **Canva**           | Ideal for creative roles, offering visually appealing templates.                                               | [Visit Canva](https://canva.com)     |
